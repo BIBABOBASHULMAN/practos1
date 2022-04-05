@@ -1,4 +1,4 @@
 name = 'Daniil'
 age = '18'
 city = 'Minsk'
-print(f"Menya zovyt {name}. Mne {age}. Ya iz {city}")
+print("Menya zovut {}. Mne {} let. Ya iz {}.".format(name, age, city)
