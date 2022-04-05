@@ -1,3 +1,3 @@
-first_name = input('Vvedite: ')
-print(first_name)
-                    
+first_str = input('Vvedite: ')
+first_str = first_str.replace(' ', '-')
+print(first_str)
