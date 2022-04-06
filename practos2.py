@@ -1,5 +1,5 @@
-a = 1
-b = 2
-c = 3
+a = True
+b = False
+c = True
 d = (a+b+c)/3
 print(d)
