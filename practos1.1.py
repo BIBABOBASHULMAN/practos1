@@ -1,2 +1,3 @@
-text = ['one', 'two', 'three']
-print(f"Moya vraza is {'-'.join(text)}")
+text = 'one two three'
+a = text.split(' ')
+print(f"Moya vraza is {'-'.join(a)}")
