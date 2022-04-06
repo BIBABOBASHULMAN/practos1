@@ -1,4 +1,4 @@
 name = input('Vvodim imya: ')
 age = input('Vvodim vozrast: ')
 city = input('Vvodim gorod: ')
-print("Menya zovut {}. Mne {} let. Ya iz {}.".format(name, age, city))
+print(f"Menya zovut {name}. Mne {age} let. Ya iz {city}.")
